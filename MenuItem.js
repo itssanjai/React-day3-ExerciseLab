@@ -1,6 +1,4 @@
 import React, { useState } from 'react';
-
-// Sample data for menu items
 const menuItems = {
   coffee: [
     { name: 'Cofee 1', price: 10 },
